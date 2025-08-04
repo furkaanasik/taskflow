@@ -1,5 +1,7 @@
 # Taskflow - Jira Klonu
 
+Bu proje tamamen claude 4 ile geliştirilmiştir.
+
 Taskflow, popüler proje yönetim aracı Jira'dan esinlenerek geliştirilmiş, modern web teknolojileri kullanılarak oluşturulmuş bir görev ve proje yönetimi uygulamasıdır. Kullanıcılara projeler oluşturma, görevler atama, ve bu görevlerin durumlarını sürükle-bırak arayüzü ile yönetme imkanı sunar.
 
 Bu proje, Next.js, Prisma, NextAuth ve Tailwind CSS gibi güçlü araçlar üzerine inşa edilmiştir.
